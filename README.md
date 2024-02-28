@@ -74,6 +74,17 @@ Here I will document the lessons I learn regarding many major aspects of develop
 ![Alt text](images/TBD_good_2.png) <br>
     </details>
     <br>  
+    <details>
+    <summary>Comparison / Use case</summary>
+
+| Product type and its release methods | Team size | Collaboration maturity | Applicable mainstream branch mode |
+| ----------- | ----------- |----------- |----------- |
+| All | Small team | High | Trunk-Based Development (TBD) |
+| Products that support continious deployment and release, such as SaaS products | Middle | Moderate | GitHub-Flow and TBD | 
+| Products with a definite release window and a periodic version release cadence, such as iOS apps | Middle | Moderate | Git-Flow and GitLab-Flow with release branch |
+| Products that are demanding for product quality and support continious deployment and release, such as basic platform products | Middle | Moderate | GitLab-Flow |
+| Products that are demanding for product quality and have a long maintenance cycle for released versions, such as 2B basic platform products | Large | Moderate | Git-Flow |
+</details>
 </details>
 <br>
 
