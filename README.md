@@ -31,7 +31,7 @@ Here I will document the lessons I learn regarding many major aspects of develop
       <details>
       <summary>GitHub Flow</summary>
       <br>
-      GitHub Flow is a simple, lightweight strategy for small teams and quick relases. It emphasizes small teams and quick releases. It also emphasizes small, frequent commits to the main branch, ensuring it's always deployable. This stategy is flexible and promotes fast feedback loops.
+      GitHub Flow is a simple, lightweight strategy for small teams and quick relases. It also emphasizes small, frequent commits to the main branch, ensuring it's always deployable. This stategy is flexible and promotes fast feedback loops.
       <br>
       <br>
       With this flow we maintain main and usually other branches accompanying it like bug fixes and features branches.<br><br>
