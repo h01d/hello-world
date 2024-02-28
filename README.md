@@ -5,7 +5,8 @@ Here I will document the lessons I learn regarding many major aspects of develop
 <details>
     <summary>more info</summary>
     <br>
-      The Git section will cover 4 main Git branching strategies.
+    The Git section will cover 4 main Git branching strategies.
+    <br>
     <br>
     <br>
     <details>
