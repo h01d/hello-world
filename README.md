@@ -10,7 +10,7 @@ Here I will document the lessons I learn regarding many major aspects of develop
     <br>
     <br>
     <details>
-      <summary>GitFlow</summary>
+      <summary>Git Flow</summary>
       <br>
         A strategy ideal for intricate projects, organizes development and releases across multiple branches. Supports parallel feature feature development, streamlined release management, and a clear path for hotfixes.
       <br>
